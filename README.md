@@ -39,7 +39,7 @@ Goto that Path
 
 # Example
 
-cd ~Q:/Alma Better Capstone projects/Book Recommendation System
+cd ~Q:/Book Recommendation System
 Create a new virtual environment on that directory
 
 virtualenv .
